@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+  <order>
+    <id>ORD-23941</id>
+    <customer_name>Dika Pratama</customer_name>
+    <customer_email>dika.p@email.com</customer_email>
+    <product>Minimalist White Mug</product>
+    <product_id>TMB-011</product_id>
+    <quantity>1</quantity>
+    <total>165000</total>
+    <date>2023-10-26</date>
+    <status>Dikirim</status>
+    <payment_status>Belum Bayar</payment_status>
+    <shipping_address>Jl. Sudirman No. 45, Jakarta</shipping_address>
+    <courier>JNE Express</courier>
+    <tracking_number>SH-8829301002</tracking_number>
+  </order>
+  <order>
+    <id>ORD-23940</id>
+    <customer_name>Rina Wati</customer_name>
+    <customer_email>rinawati99@email.com</customer_email>
+    <product>Premium Rose Gold Flask</product>
+    <product_id>TMB-004</product_id>
+    <quantity>2</quantity>
+    <total>500000</total>
+    <date>2023-10-25</date>
+    <status>Diproses</status>
+    <payment_status>Lunas</payment_status>
+    <shipping_address>Jl. Braga No. 12, Bandung</shipping_address>
+    <courier>SiCepat</courier>
+    <tracking_number>SH-8829301001</tracking_number>
+  </order>
+  <order>
+    <id>ORD-23939</id>
+    <customer_name>Siti Aminah</customer_name>
+    <customer_email>sitiamin@email.com</customer_email>
+    <product>Aesthetic Matte Black</product>
+    <product_id>TMB-003</product_id>
+    <quantity>1</quantity>
+    <total>370000</total>
+    <date>2023-10-24</date>
+    <status>Dikirim</status>
+    <payment_status>Lunas</payment_status>
+    <shipping_address>Jl. Diponegoro No. 78, Surabaya</shipping_address>
+    <courier>JNE Express</courier>
+    <tracking_number>SH-8829301000</tracking_number>
+  </order>
+  <order>
+    <id>ORD-23938</id>
+    <customer_name>Budi Santoso</customer_name>
+    <customer_email>budi.s@email.com</customer_email>
+    <product>Classic Custom Name</product>
+    <product_id>TMB-001</product_id>
+    <quantity>1</quantity>
+    <total>150000</total>
+    <date>2023-10-22</date>
+    <status>Selesai</status>
+    <payment_status>Lunas</payment_status>
+    <shipping_address>Jl. Gatot Subroto No. 33, Jakarta</shipping_address>
+    <courier>AnterAja</courier>
+    <tracking_number>SH-8829300999</tracking_number>
+  </order>
+  <order>
+    <id>ORD-23937</id>
+    <customer_name>Ahmad Fauzi</customer_name>
+    <customer_email>ahmadf@email.com</customer_email>
+    <product>Soft Brown Wooden Cap</product>
+    <product_id>TMB-012</product_id>
+    <quantity>1</quantity>
+    <total>195000</total>
+    <date>2023-10-21</date>
+    <status>Dibatalkan</status>
+    <payment_status>Batal</payment_status>
+    <shipping_address>Jl. Ahmad Yani No. 56, Semarang</shipping_address>
+    <courier>JNE Regular</courier>
+    <tracking_number/>
+  </order>
+  <order>
+    <id>ORD-62621</id>
+    <customer_name>kyo kyo</customer_name>
+    <customer_email>kyo@shodwe.com</customer_email>
+    <product>Multiple Items</product>
+    <product_id>MULTI</product_id>
+    <quantity>2</quantity>
+    <total>469000</total>
+    <date>2026-05-04</date>
+    <status>Pending</status>
+    <payment_status>Belum Bayar</payment_status>
+    <shipping_address>jln.sukun, jakarta, 12260</shipping_address>
+    <courier>JNE Express</courier>
+    <tracking_number/>
+  </order>
+  <order>
+    <id>ORD-85192</id>
+    <customer_name>Alya Shodwe</customer_name>
+    <customer_email>alya@shodwe.com</customer_email>
+    <product>Classic Cream Tumbler</product>
+    <product_id>TMB-001</product_id>
+    <quantity>1</quantity>
+    <total>249000</total>
+    <status>Selesai</status>
+    <payment_status>Belum Bayar</payment_status>
+    <shipping_address>jln.swadarma, jakarta selatan, 12260</shipping_address>
+    <courier>JNE Express</courier>
+    <tracking_number>SH-8829301002</tracking_number>
+    <date>2026-05-05</date>
+  </order>
+  <order>
+    <id>ORD-90006</id>
+    <customer_name>Alya Shodwe</customer_name>
+    <customer_email>alya@shodwe.com</customer_email>
+    <product>Multiple Items</product>
+    <product_id>MULTI</product_id>
+    <quantity>4</quantity>
+    <total>1006000</total>
+    <status>Dibatalkan</status>
+    <payment_status>Batal</payment_status>
+    <shipping_address>jln km, jakarta selatan, 12260</shipping_address>
+    <courier>JNE Express</courier>
+    <tracking_number/>
+    <date>2026-05-05</date>
+  </order>
+  <order>
+    <id>ORD-31567</id>
+    <customer_name>Alya Shodwe</customer_name>
+    <customer_email>alya@shodwe.com</customer_email>
+    <product>Multiple Items</product>
+    <product_id>MULTI</product_id>
+    <quantity>2</quantity>
+    <total>468000</total>
+    <status>Selesai</status>
+    <payment_status>Lunas</payment_status>
+    <shipping_address>jln.sadada, jakarta selatan, 12260</shipping_address>
+    <courier>JNE Express</courier>
+    <payment_method>COD</payment_method>
+    <tracking_number/>
+    <date>2026-05-05</date>
+  </order>
+  <order>
+    <id>ORD-38439</id>
+    <customer_name>Alya Shodwe</customer_name>
+    <customer_email>alya@shodwe.com</customer_email>
+    <product>Classic Cream Tumbler</product>
+    <product_id>TMB-001</product_id>
+    <quantity>1</quantity>
+    <total>249000</total>
+    <status>Selesai</status>
+    <payment_status>Lunas</payment_status>
+    <shipping_address>jl,,swadarma, jakarta, 12260</shipping_address>
+    <courier>JNE Express</courier>
+    <payment_method>COD</payment_method>
+    <tracking_number/>
+    <date>2026-05-08</date>
+  </order>
+</orders>

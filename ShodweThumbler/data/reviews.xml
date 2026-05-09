@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews>
+    <review>
+        <id>REV-001</id>
+        <name>Sarah J.</name>
+        <rating>5</rating>
+        <text>The Classic Cream tumbler is absolutely gorgeous. The custom name engraving looks so premium, and it actually keeps my iced latte cold all day long at the office!</text>
+        <verified>1</verified>
+        <avatar>female1</avatar>
+    </review>
+    <review>
+        <id>REV-002</id>
+        <name>Michael T.</name>
+        <rating>5</rating>
+        <text>I bought the Midnight Edition for my husband, and he loves it. Sleek design, leak-proof, and the matte finish doesn't leave fingerprints. Highly recommended.</text>
+        <verified>1</verified>
+        <avatar>male1</avatar>
+    </review>
+    <review>
+        <id>REV-003</id>
+        <name>Elena V.</name>
+        <rating>5</rating>
+        <text>Obsessed with the Rose Gold Elegance! It fits perfectly in my car cup holder, and the elegant look gets me compliments everywhere I go. Best tumbler I've ever owned.</text>
+        <verified>1</verified>
+        <avatar>female2</avatar>
+    </review>
+</reviews>

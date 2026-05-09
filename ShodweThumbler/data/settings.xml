@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <general>
+        <store_name>Shodwe Tumbler Hub</store_name>
+        <tagline>Premium Aesthetic Tumblers for Every Routine</tagline>
+        <email>hello@shodwetumbler.com</email>
+        <phone>+62 811 2345 6789</phone>
+        <address>Jl. Senopati No. 45, Kebayoran Baru, Jakarta Selatan</address>
+        <operating_hours>Senin - Sabtu: 09:00 - 20:00 WIB</operating_hours>
+        <currency>IDR</currency>
+        <language>id</language>
+    </general>
+    <payment>
+        <bank_transfer enabled="1">
+            <bank name="BCA">882 901 8821</bank>
+            <bank name="Mandiri">128 001 234 5678</bank>
+            <bank name="BNI">012 345 6789</bank>
+            <bank name="BRI">098 765 4321</bank>
+            <account_name>PT Shodwe Tumbler Indonesia</account_name>
+        </bank_transfer>
+        <ewallet enabled="1">
+            <wallet name="GoPay">081234567890</wallet>
+            <wallet name="OVO">081234567890</wallet>
+            <wallet name="Dana">081234567890</wallet>
+        </ewallet>
+        <cod enabled="1">
+            <max_amount>1000000</max_amount>
+        </cod>
+    </payment>
+    <shipping>
+        <courier name="JNE Express" enabled="1" />
+        <courier name="SiCepat" enabled="1" />
+        <courier name="AnterAja" enabled="1" />
+        <courier name="JNE Regular" enabled="1" />
+        <courier name="Pos Indonesia" enabled="0" />
+        <default_cost>25000</default_cost>
+        <free_shipping_min>500000</free_shipping_min>
+    </shipping>
+</settings>

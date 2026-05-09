@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dashboard_images>
+  <image>
+    <id>IMG-001</id>
+    <section>hero</section>
+    <page>beranda</page>
+    <title>Hero Banner Utama</title>
+    <description>Gambar utama pada hero section halaman beranda</description>
+    <filename>dashboard_1778254771_739.png</filename>
+    <alt_text>Premium Cream Tumbler</alt_text>
+    <status>Aktif</status>
+    <updated_at>2026-05-08</updated_at>
+  </image>
+  <image>
+    <id>IMG-002</id>
+    <section>personalize</section>
+    <page>beranda</page>
+    <title>Personalize Section</title>
+    <description>Gambar pada section personalisasi halaman beranda</description>
+    <filename>tumbler_mocha.png</filename>
+    <alt_text>Personalized Tumbler</alt_text>
+    <status>Aktif</status>
+    <updated_at>2026-05-08</updated_at>
+  </image>
+  <image>
+    <id>IMG-003</id>
+    <section>hero</section>
+    <page>tentang-kami</page>
+    <title>Hero Tentang Kami</title>
+    <description>Gambar hero pada halaman tentang kami</description>
+    <filename>tumbler_white.png</filename>
+    <alt_text>About Hero</alt_text>
+    <status>Aktif</status>
+    <updated_at>2026-05-08</updated_at>
+  </image>
+  <image>
+    <id>IMG-004</id>
+    <section>story</section>
+    <page>tentang-kami</page>
+    <title>Kisah Kami</title>
+    <description>Gambar pada section kisah kami</description>
+    <filename>tumbler_cream.png</filename>
+    <alt_text>Our Story</alt_text>
+    <status>Aktif</status>
+    <updated_at>2026-05-08</updated_at>
+  </image>
+  <image>
+    <id>IMG-005</id>
+    <section>gallery-1</section>
+    <page>tentang-kami</page>
+    <title>Galeri Estetika 1</title>
+    <description>Gambar galeri besar kiri atas</description>
+    <filename>tumbler_cream.png</filename>
+    <alt_text>Workspace</alt_text>
+    <status>Aktif</status>
+    <updated_at>2026-05-08</updated_at>
+  </image>
+  <image>
+    <id>IMG-006</id>
+    <section>gallery-2</section>
+    <page>tentang-kami</page>
+    <title>Galeri Estetika 2</title>
+    <description>Gambar galeri kanan atas</description>
+    <filename>tumbler_mocha.png</filename>
+    <alt_text>Engraving</alt_text>
+    <status>Aktif</status>
+    <updated_at>2026-05-08</updated_at>
+  </image>
+  <image>
+    <id>IMG-007</id>
+    <section>gallery-3</section>
+    <page>tentang-kami</page>
+    <title>Galeri Estetika 3</title>
+    <description>Gambar galeri kiri bawah</description>
+    <filename>tumbler_green.png</filename>
+    <alt_text>Green Tumbler</alt_text>
+    <status>Aktif</status>
+    <updated_at>2026-05-08</updated_at>
+  </image>
+  <image>
+    <id>IMG-008</id>
+    <section>gallery-4</section>
+    <page>tentang-kami</page>
+    <title>Galeri Estetika 4</title>
+    <description>Gambar galeri besar kanan bawah</description>
+    <filename>tumbler_rosegold.png</filename>
+    <alt_text>Lifestyle</alt_text>
+    <status>Aktif</status>
+    <updated_at>2026-05-08</updated_at>
+  </image>
+  <image>
+    <id>IMG-009</id>
+    <section>banner</section>
+    <page>toko</page>
+    <title>Banner Toko</title>
+    <description>Gambar banner di halaman toko</description>
+    <filename>tumbler_green.png</filename>
+    <alt_text>Premium Green Tumbler</alt_text>
+    <status>Aktif</status>
+    <updated_at>2026-05-08</updated_at>
+  </image>
+  <image>
+    <id>IMG-010</id>
+    <section>login-bg</section>
+    <page>auth</page>
+    <title>Background Login</title>
+    <description>Gambar background di halaman login</description>
+    <filename>dashboard_1778254824_534.png</filename>
+    <alt_text>Login Background</alt_text>
+    <status>Aktif</status>
+    <updated_at>2026-05-08</updated_at>
+  </image>
+  <image>
+    <id>IMG-011</id>
+    <section>register-bg</section>
+    <page>auth</page>
+    <title>Background Register</title>
+    <description>Gambar background di halaman register</description>
+    <filename>tumbler_white.png</filename>
+    <alt_text>Register Background</alt_text>
+    <status>Aktif</status>
+    <updated_at>2026-05-08</updated_at>
+  </image>
+</dashboard_images>

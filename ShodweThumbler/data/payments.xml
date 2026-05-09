@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<payments>
+  <payment>
+    <id>PAY-88231A</id>
+    <order_id>SHD-9012</order_id>
+    <customer_name>Bima Satria</customer_name>
+    <customer_email>bima.s@email.com</customer_email>
+    <method>BCA Transfer</method>
+    <total>245000</total>
+    <date>2023-11-12</date>
+    <time>14:30 WIB</time>
+    <status>Berhasil</status>
+  </payment>
+  <payment>
+    <id>PAY-88230B</id>
+    <order_id>SHD-9011</order_id>
+    <customer_name>Nadia Larasati</customer_name>
+    <customer_email>nadia.l@email.com</customer_email>
+    <method>GoPay</method>
+    <total>180000</total>
+    <date>2023-11-12</date>
+    <time>13:15 WIB</time>
+    <status>Berhasil</status>
+  </payment>
+  <payment>
+    <id>PAY-88229C</id>
+    <order_id>SHD-9008</order_id>
+    <customer_name>Kevin Wijaya</customer_name>
+    <customer_email>kevin.w@email.com</customer_email>
+    <method>OVO</method>
+    <total>310000</total>
+    <date>2023-11-12</date>
+    <time>11:45 WIB</time>
+    <status>Berhasil</status>
+  </payment>
+  <payment>
+    <id>PAY-88228D</id>
+    <order_id>SHD-9005</order_id>
+    <customer_name>Sari Indah</customer_name>
+    <customer_email>sari.i@email.com</customer_email>
+    <method>Mandiri Virtual</method>
+    <total>150000</total>
+    <date>2023-11-12</date>
+    <time>09:20 WIB</time>
+    <status>Gagal / Expired</status>
+  </payment>
+  <payment>
+    <id>PAY-88227E</id>
+    <order_id>SHD-9001</order_id>
+    <customer_name>Riko Saputra</customer_name>
+    <customer_email>riko.s@email.com</customer_email>
+    <method>COD</method>
+    <total>295000</total>
+    <date>2023-11-11</date>
+    <time>18:10 WIB</time>
+    <status>Dikembalikan (Refund)</status>
+  </payment>
+</payments>

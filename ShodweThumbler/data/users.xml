@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user>
+    <id>USR-001</id>
+    <name>Alya Shodwe</name>
+    <email>alya@shodwe.com</email>
+    <phone>+62 812-3456-7890</phone>
+    <password>admin123</password>
+    <role>admin</role>
+    <status>Aktif</status>
+    <total_spent>0</total_spent>
+    <total_orders>0</total_orders>
+    <membership>Admin</membership>
+    <joined>2023-01-01</joined>
+    <avatar>admin</avatar>
+  </user>
+  <user>
+    <id>USR-002</id>
+    <name>Dina Lorenza</name>
+    <email>dinalorenza@email.com</email>
+    <phone>+62 812-3456-7890</phone>
+    <password>user123</password>
+    <role>customer</role>
+    <status>Aktif</status>
+    <total_spent>4250000</total_spent>
+    <total_orders>12</total_orders>
+    <membership>VIP</membership>
+    <joined>2023-01-12</joined>
+    <avatar>female1</avatar>
+  </user>
+  <user>
+    <id>USR-003</id>
+    <name>Rizky Firmansyah</name>
+    <email>rizky.f@email.com</email>
+    <phone>+62 856-7890-1234</phone>
+    <password>user123</password>
+    <role>customer</role>
+    <status>Aktif</status>
+    <total_spent>850000</total_spent>
+    <total_orders>3</total_orders>
+    <membership>Aktif</membership>
+    <joined>2023-03-05</joined>
+    <avatar>male1</avatar>
+  </user>
+  <user>
+    <id>USR-004</id>
+    <name>Siti Nurhaliza</name>
+    <email>sitinur@email.com</email>
+    <phone>+62 899-1234-5678</phone>
+    <password>user123</password>
+    <role>customer</role>
+    <status>Aktif</status>
+    <total_spent>1200000</total_spent>
+    <total_orders>5</total_orders>
+    <membership>Aktif</membership>
+    <joined>2023-05-18</joined>
+    <avatar>female2</avatar>
+  </user>
+  <user>
+    <id>USR-005</id>
+    <name>Bima Satria</name>
+    <email>bima.s@email.com</email>
+    <phone>+62 822-4567-8901</phone>
+    <password>user123</password>
+    <role>customer</role>
+    <status>Nonaktif</status>
+    <total_spent>150000</total_spent>
+    <total_orders>1</total_orders>
+    <membership>Nonaktif</membership>
+    <joined>2023-10-22</joined>
+    <avatar>male2</avatar>
+  </user>
+  <user>
+    <id>USR-006</id>
+    <name>Anita Wijaya</name>
+    <email>anitaw@email.com</email>
+    <phone>+62 811-3333-4444</phone>
+    <password>user123</password>
+    <role>customer</role>
+    <status>Aktif</status>
+    <total_spent>6800000</total_spent>
+    <total_orders>20</total_orders>
+    <membership>VIP</membership>
+    <joined>2022-11-04</joined>
+    <avatar>female3</avatar>
+  </user>
+  <user>
+    <id>USR-007</id>
+    <name>mujaw</name>
+    <email>mujaw@shodwe.com</email>
+    <phone>085773219404</phone>
+    <password>12345678</password>
+    <role>customer</role>
+    <status>Aktif</status>
+    <total_spent>0</total_spent>
+    <total_orders>0</total_orders>
+    <membership>Aktif</membership>
+    <joined>2026-05-04</joined>
+    <avatar>default</avatar>
+  </user>
+  <user>
+    <id>USR-008</id>
+    <name>kyo</name>
+    <email>kyo@shodwe.com</email>
+    <phone>085859595656</phone>
+    <password>12345678</password>
+    <role>customer</role>
+    <status>Aktif</status>
+    <total_spent>0</total_spent>
+    <total_orders>0</total_orders>
+    <membership>Aktif</membership>
+    <joined>2026-05-04</joined>
+    <avatar>default</avatar>
+  </user>
+</users>

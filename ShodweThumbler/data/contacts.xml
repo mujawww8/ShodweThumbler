@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+  <contact>
+    <id>CTN-001</id>
+    <name>Nabila Putri</name>
+    <email>nabila@example.com</email>
+    <subject>Pertanyaan Custom Logo Tumbler Corporate</subject>
+    <message>Halo tim Shodwe, saya tertarik untuk memesan custom tumbler dengan logo perusahaan sebanyak 50 pcs untuk acara corporate. Apakah ada penawaran harga khusus untuk pemesanan bulk order? Terima kasih.</message>
+    <date>2024-01-15</date>
+    <status>Unread</status>
+  </contact>
+  <contact>
+    <id>CTN-002</id>
+    <name>alya</name>
+    <email>alya@shodwe.com</email>
+    <subject>bagus</subject>
+    <message>bagus</message>
+    <date>2026-05-05</date>
+    <status>Unread</status>
+  </contact>
+</contacts>

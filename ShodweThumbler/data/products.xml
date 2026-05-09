@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>TMB-001</id>
+    <name>Classic Cream Tumbler</name>
+    <category>Custom Tumbler</category>
+    <price>249000</price>
+    <stock>45</stock>
+    <status>Aktif</status>
+    <color>Cream</color>
+    <type>Custom</type>
+    <capacity>500ml</capacity>
+    <rating>4.9</rating>
+    <reviews>128</reviews>
+    <image>tumbler_cream.png</image>
+    <description>Insulated tumbler dengan finishing matte premium dan opsi custom nama elegan.</description>
+    <tags>Best Seller</tags>
+    <custom_name>1</custom_name>
+    <created_at>2024-01-15</created_at>
+  </product>
+  <product>
+    <id>TMB-002</id>
+    <name>Mocha Travel Cup</name>
+    <category>Best Seller</category>
+    <price>219000</price>
+    <stock>12</stock>
+    <status>Aktif</status>
+    <color>Mocha</color>
+    <type>Non-custom</type>
+    <capacity>500ml</capacity>
+    <rating>4.7</rating>
+    <reviews>58</reviews>
+    <image>tumbler_mocha.png</image>
+    <description>Ringan, anti bocor, dan mudah dibawa untuk aktivitas kampus maupun kantor.</description>
+    <tags>Office Favorite,Custom Name</tags>
+    <custom_name>0</custom_name>
+    <created_at>2024-02-10</created_at>
+  </product>
+  <product>
+    <id>TMB-003</id>
+    <name>Midnight Edition</name>
+    <category>New Arrival</category>
+    <price>279000</price>
+    <stock>30</stock>
+    <status>Aktif</status>
+    <color>Black</color>
+    <type>Custom</type>
+    <capacity>750ml</capacity>
+    <rating>4.8</rating>
+    <reviews>94</reviews>
+    <image>tumbler_black.png</image>
+    <description>Desain sleek untuk meja kerja dan aktivitas outdoor dengan grip nyaman.</description>
+    <tags>New Arrival,Custom Name Available</tags>
+    <custom_name>1</custom_name>
+    <created_at>2024-03-05</created_at>
+  </product>
+  <product>
+    <id>TMB-004</id>
+    <name>Rose Gold Elegance</name>
+    <category>Best Seller</category>
+    <price>259000</price>
+    <stock>24</stock>
+    <status>Aktif</status>
+    <color>Rose Gold</color>
+    <type>Non-custom</type>
+    <capacity>500ml</capacity>
+    <rating>4.9</rating>
+    <reviews>76</reviews>
+    <image>tumbler_rosegold.png</image>
+    <description>Pilihan mewah dengan detail metallic lembut untuk hadiah yang lebih berkesan.</description>
+    <tags>Staff Pick,Hot</tags>
+    <custom_name>0</custom_name>
+    <created_at>2024-01-20</created_at>
+  </product>
+  <product>
+    <id>TMB-005</id>
+    <name>Latte Signature Tumbler</name>
+    <category>New Arrival</category>
+    <price>279000</price>
+    <stock>88</stock>
+    <status>Aktif</status>
+    <color>Latte</color>
+    <type>Custom</type>
+    <capacity>500ml</capacity>
+    <rating>4.8</rating>
+    <reviews>94</reviews>
+    <image>tumbler_cream.png</image>
+    <description>Desain sleek untuk meja kerja dan aktivitas outdoor dengan grip nyaman.</description>
+    <tags>New Arrival,Custom Name Available</tags>
+    <custom_name>1</custom_name>
+    <created_at>2024-03-12</created_at>
+  </product>
+  <product>
+    <id>TMB-006</id>
+    <name>Soft Gold Daily Flask</name>
+    <category>Accessories</category>
+    <price>319000</price>
+    <stock>0</stock>
+    <status>Nonaktif</status>
+    <color>Gold</color>
+    <type>Non-custom</type>
+    <capacity>750ml</capacity>
+    <rating>4.9</rating>
+    <reviews>76</reviews>
+    <image>tumbler_rosegold.png</image>
+    <description>Pilihan mewah dengan detail metallic lembut untuk hadiah yang lebih berkesan.</description>
+    <tags>Gift Ready</tags>
+    <custom_name>0</custom_name>
+    <created_at>2024-02-28</created_at>
+  </product>
+  <product>
+    <id>TMB-007</id>
+    <name>Ivory Commute Bottle</name>
+    <category>Custom Tumbler</category>
+    <price>229000</price>
+    <stock>55</stock>
+    <status>Aktif</status>
+    <color>White</color>
+    <type>Custom</type>
+    <capacity>500ml</capacity>
+    <rating>4.7</rating>
+    <reviews>58</reviews>
+    <image>tumbler_white.png</image>
+    <description>Ringan, anti bocor, dan mudah dibawa untuk aktivitas kampus maupun kantor.</description>
+    <tags>Office Favorite,Custom Name</tags>
+    <custom_name>1</custom_name>
+    <created_at>2024-04-01</created_at>
+  </product>
+  <product>
+    <id>TMB-008</id>
+    <name>Mocha Name Edition</name>
+    <category>Custom Tumbler</category>
+    <price>299000</price>
+    <stock>40</stock>
+    <status>Aktif</status>
+    <color>Mocha</color>
+    <type>Custom</type>
+    <capacity>500ml</capacity>
+    <rating>5.0</rating>
+    <reviews>41</reviews>
+    <image>tumbler_mocha.png</image>
+    <description>Tumbler custom favorit untuk hadiah ulang tahun, hampers kantor, dan souvenir premium.</description>
+    <tags>Custom Special,Engraved</tags>
+    <custom_name>1</custom_name>
+    <created_at>2024-04-15</created_at>
+  </product>
+  <product>
+    <id>TMB-009</id>
+    <name>Pure White Thermal Cup</name>
+    <category>New Arrival</category>
+    <price>289000</price>
+    <stock>35</stock>
+    <status>Aktif</status>
+    <color>White</color>
+    <type>Non-custom</type>
+    <capacity>750ml</capacity>
+    <rating>4.8</rating>
+    <reviews>67</reviews>
+    <image>tumbler_white.png</image>
+    <description>Kapasitas lebih besar untuk kebutuhan hidrasi sehari-hari dengan desain super clean.</description>
+    <tags>New Color,Eco-friendly</tags>
+    <custom_name>0</custom_name>
+    <created_at>2024-05-01</created_at>
+  </product>
+  <product>
+    <id>TMB-010</id>
+    <name>Classic Insulated</name>
+    <category>Best Seller</category>
+    <price>598000</price>
+    <stock>20</stock>
+    <status>Aktif</status>
+    <color>Green</color>
+    <type>Non-custom</type>
+    <capacity>750ml</capacity>
+    <rating>4.9</rating>
+    <reviews>112</reviews>
+    <image>tumbler_green.png</image>
+    <description>Tumbler premium dengan insulasi ganda untuk menjaga suhu minuman hingga 24 jam.</description>
+    <tags>Best Seller,Premium</tags>
+    <custom_name>0</custom_name>
+    <created_at>2024-01-05</created_at>
+  </product>
+  <product>
+    <id>TMB-011</id>
+    <name>Minimalist White Coffee Mug</name>
+    <category>Accessories</category>
+    <price>165000</price>
+    <stock>88</stock>
+    <status>Aktif</status>
+    <color>White</color>
+    <type>Non-custom</type>
+    <capacity>350ml</capacity>
+    <rating>4.6</rating>
+    <reviews>45</reviews>
+    <image>tumbler_white.png</image>
+    <description>Mug kopi minimalis dengan desain elegan untuk penggunaan sehari-hari.</description>
+    <tags>Office Favorite</tags>
+    <custom_name>0</custom_name>
+    <created_at>2024-03-20</created_at>
+  </product>
+</products>
